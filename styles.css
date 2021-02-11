@@ -1,0 +1,496 @@
+.mat
+{
+    margin: auto;
+    width: 200px;
+    height: 80px;
+    border-radius: 10px;
+}
+
+#ghs
+{
+    margin: auto;
+    cursor: pointer;
+    border-radius: 20px;
+    width: 250px;
+    height: 100px;
+}
+
+.jhh
+{
+    margin: auto;
+}
+
+#nav 
+{
+    width: 150px;    
+}
+
+#nav:hover
+{
+    width: 300px;
+    cursor: pointer;
+    padding: 5%;
+}
+
+.home
+{
+    display: none;
+}
+
+.rps
+{
+    display: none;
+}
+
+.gtn
+{
+    display: none;
+}
+
+.stw
+{
+    display: none;
+}
+
+.com
+{
+    display: none;
+}
+
+#stop
+{
+    font-size:200%;
+    margin-top: 5%;
+}
+
+#stip
+{
+    margin: auto;
+    width: 500px;
+    height: 250px;
+    margin-bottom: 5%;
+    border-radius: 10px;
+    margin-top: 10%;
+}
+
+#top
+{
+    margin-left: 20px;
+}
+
+#reset
+{
+    margin-left: 20px;
+}
+
+#sc
+{
+    float: right;
+    font-size: 200%;
+}
+
+#loi
+{
+    margin-top: 10%;
+}
+
+#sww
+{
+    margin: auto;
+    margin-top: 10%;
+    visibility: hidden;
+    width: 200px;
+    height: 80px;
+}
+
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}
+
+#h1
+{
+    display: inline-block;
+}
+
+#h2
+{
+    display: inline-block;
+}
+
+#rou 
+{
+    display: inline-block;
+}
+
+#pN1
+{
+    display: inline-block;
+}
+
+
+.jhS
+{
+    margin: auto;
+}
+
+#mps
+{
+    visibility: visible;
+}
+
+
+#hf
+{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+#Rav
+{
+    margin-top: 15%;
+}
+
+.lkp
+{
+    cursor: pointer;
+}
+
+#game1
+{
+    background: url("https://c0.wallpaperflare.com/preview/990/229/294/united-kingdom-london-rock-paper-scissors-hands.jpg") no-repeat;
+    background-attachment: local;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    height: 600px;
+}
+
+#cds
+{
+    background: url("./images/Game13.jpg") no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 700px;
+    background-position: center;
+    position: relative;
+}
+
+
+#cover
+{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 400%;
+}
+
+#cover2
+{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 200%;
+}
+
+#brps
+{
+    margin-top: 10%;
+}
+
+
+.line-dec
+{
+    width: 60px;
+    height: 3px;
+    margin: 10px auto;
+    background-color: black;
+}
+
+#hre:hover
+{
+    margin: auto;
+    background-color: skyblue;
+}
+
+#drps
+{
+    margin-top: 10%;
+    font-size: 150%;
+}
+
+#srps
+{
+    visibility: hidden;
+}
+
+.bg-img
+{
+    background: url("images/game_2.jpg") no-repeat;
+    background-attachment: local;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    height: 600px;
+}
+
+#bgtn
+{
+    margin-top: 10%;
+}
+
+#hf
+{
+    visibility: hidden;
+    margin-top: 10%;
+}
+
+
+#drps
+{
+    background : url("./images/travel8.jpg") no-repeat;
+    background-attachment: local;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    min-height: 682px;
+    max-height: 1500px;
+}
+
+html
+{
+    scroll-behavior: smooth;
+}
+
+
+a
+{
+    text-decoration: none;
+}
+
+#dgtn
+{
+    background: url("./images/travel6.jpg") no-repeat;
+    background-attachment: local;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    min-height: 667px;
+    max-height: 1500px;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+
+#klk
+{
+    font-size: 200%;
+}
+
+#bg-img-2
+{
+  background: url("./images/game11.jpg") no-repeat;
+  background-attachment: local;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  height: 720px;
+
+}
+
+#appe
+{
+    margin-top: 5%;
+}
+
+#main-head
+{
+    margin-top: 2%;
+}
+
+#sedy
+{
+    margin: auto;
+    visibility: hidden;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    width : 300px;
+    height: 250px;
+    border-radius: 20px;
+}
+
+#hfr1
+{
+    margin: auto;
+    width: 350px;
+    height: 150px;
+    margin-bottom: 10%;
+    border-radius: 10px;
+}
+
+#hfr2
+{
+    margin: auto;
+    margin-bottom: 5%;
+    width: 400px;
+    height: 180px;
+    border-radius: 10px;
+}
+
+#final1
+{
+    margin: auto;
+    width: 350px;
+    height: 190px;
+    border-radius: 20px;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    display: none;
+}
+
+#mhs
+{
+    margin: auto;
+    width: 400px;
+    height: 200px;
+    border-radius: 20px;
+    margin-bottom: 5%;
+    display: none;
+}
+
+#glk
+{
+    font-size: 150%;
+}
+
+#bg-img-3
+{
+    font-size: 150%;
+    margin-top: 10%;
+}
+
+#bgb
+{
+    margin-top: 10%;
+    font-size: 150%;
+}
+
+#srps
+{
+    margin-bottom: 5%;
+    margin-top: 5%;
+}
+
+#hera
+{
+    margin-top: 10%;
+}
+
+a
+{
+    color: white;
+}
+
+#top
+{
+    margin-left: 20px;
+}
+
+.dew
+{
+    margin: auto;
+    width: 400px;
+    height: 200px;
+    display: none;
+    margin-top: 5%;
+    border-radius: 10px;
+}
+
+#ghs
+{
+    width: 300px;
+    display: none;
+}
+
+#bg-img-4
+{
+    background: url("./images/ocean-3605547_1280.jpg") no-repeat;
+    background-attachment: local;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    height: 800px;
+}
+
+
+#meaq
+{
+    margin-top: 10%;
+    margin-bottom: 5%;
+    font-size: 150%;
+}
+
+#wtm
+{
+    margin-top: 10%;
+    margin-bottom: 5%;
+}
+
+#ret
+{
+    margin-bottom: 5%;
+}
+
+#bg-img-5
+{
+    background: url("./images/game17.jpg") no-repeat;
+    background-attachment: local;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    height: 800px;    
+}
+
+#et
+{
+    margin-bottom: 5%;
+}
+
+
+#mt
+{
+    margin-top: 10%;
+    margin-bottom: 5%;
+    font-size: 150%;
+}
+
+#w1
+{
+    margin-top: 10%;
+}
+
+#m1
+{
+    margin-top: 5%;
+    margin-bottom: 10%; 
+}
+
+footer
+{
+    font-size: 150%;
+    margin-bottom: 2%;
+}
+
+#st
+{
+    margin-top: 10%;
+}
